@@ -1,4 +1,4 @@
-# Task 1. Hypothesis testing for the mean value
+# Task 1. Hypothesis testing for the mean value.
 # Load the built-in trees dataset, familiarize yourself with its structure. 
 # Plot a histogram of the distribution of tree heights. 
 # Test the hypothesis that the mean tree height is 78 feet at a significance level of 0.05.
