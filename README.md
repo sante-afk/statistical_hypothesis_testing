@@ -11,7 +11,7 @@ This work implements methods of statistical hypothesis testing using the R langu
 - Assessing the statistical significance of differences based on tabulated data.  
 
 **Testing hypotheses about the distribution law:**
-- Testing the normality of distribution (Shapiro–Wilk, Kolmogorov, Lilliefors, χ²).  
+- Testing the normality of distribution (Shapiro–Wilk, Kolmogorov, Lilliefors, x^2).  
 
 #### Data visualization:
 - Histograms, boxplots, QQ plots, density plots.  
@@ -20,5 +20,5 @@ This work implements methods of statistical hypothesis testing using the R langu
 
 #### Main tools:
 - Built-in datasets: `trees`, `sleep`, `airquality`.  
-- Statistical criteria: t-test, Fisher’s test, Wilcoxon test, χ², Shapiro–Wilk, Lilliefors.  
+- Statistical criteria: t-test, Fisher’s test, Wilcoxon test, x^2, Shapiro–Wilk, Lilliefors.  
 - Visualization tools: histograms, boxplots, QQ plots, density plots.  
