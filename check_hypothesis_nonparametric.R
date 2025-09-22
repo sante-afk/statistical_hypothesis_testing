@@ -4,6 +4,7 @@
 # Test the hypothesis that the ozone distribution in May and August was the same.
 ozon <- airquality
 str(ozon)
+write.csv(trees, file = 'ozon_data.csv', row.names = FALSE)
 
 # ozone layer chart
 boxplot(Ozone~Month, data=airquality, subset=Month %in%c(5, 8), col="blue")
